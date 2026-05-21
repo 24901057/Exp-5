@@ -1,4 +1,4 @@
-# Exp - 5 STUDENT COURSE ENROLLMENT SYSTEM
+# Exp - 5 STUDENT ENROLLMENT SYSTEM
 
 ## AIM: 
 To draw a UML diagram for a Student course enrollment System.
