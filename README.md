@@ -25,7 +25,10 @@ Procedure-:
 
 
 # DIAGRAMS:
-
+```
+NAME: THEJASHREE S
+REG NO: 212224240175
+```
 ### USECASE DIAGRAM:
 
 ![image](https://github.com/user-attachments/assets/f552fdf4-325b-4aac-ba6e-7c774abf5503)
